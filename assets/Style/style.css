@@ -18,13 +18,13 @@ body {
   header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: #6a67ff;
+    color: #3d2c2c80;
     margin: 0;
   }
 
   header a {
     text-decoration: none;
-    color: #6a67ff;
+    color: #3d2c2c80;
   }
 
   header nav {
@@ -45,7 +45,7 @@ body {
   header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: #6a67ff;
+    color: #3d2c2c80;
     margin: 0;
     display: inline;
   }
@@ -53,7 +53,7 @@ body {
    html-intro{
     font-weight: bold;
     font-size: 36px;
-    color: #6a67ff;
+    color: #3d2c2c80;
     margin: 0;
     display: inline;
   }
